@@ -5,3 +5,5 @@ A script I made to be prepared to checkout new sneakers on release day with 10% 
 
 ## Usage
 Add your email and password in settings.txt and run the main.py file. Pretty straightforward.
+
+![Demo](https://i.gyazo.com/3ba771481270879e4beb91c4d04ad64c.png)
